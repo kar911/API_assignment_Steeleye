@@ -7,7 +7,11 @@
 - searching against Trades
 - filtering Trades
 - Bonus points
+## read the requierment file for installing Packages
+
 # Solution 
+
+
 
 ## to use the code user must have `hostID` and `APIkey` and Elasticsearch index named `trade` with data
 ### editable in 
